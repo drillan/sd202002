@@ -1,0 +1,4 @@
+jupyter
+lxml
+pandas==0.25.3
+plotly-express==0.4.1
