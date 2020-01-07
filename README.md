@@ -1,8 +1,12 @@
 # Software Design 2020年2月号
 
-[![thumbnail](images/sp1-tobira-thumbnail.jpg)](images/sp1-tobira.jpg)
+表紙|章扉
+-----|--------
+[![hyoshi](images/642002-thumbnail.jpg)](images/642002.jpg)|[![thumbnail](images/sp1-tobira-thumbnail.jpg)](images/sp1-tobira.jpg)
 
 ## 第5章 テーブルデータをpadnasで処理しPlotlyで可視化する
+
+第5章のサンプルコードです。binderやColabのリンクからコードをブラウザ上から実行できます。
 
 項目|リンク
 -----|--------
