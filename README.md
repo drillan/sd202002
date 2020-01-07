@@ -2,7 +2,7 @@
 
 表紙|章扉
 -----|--------
-[![hyoshi](images/642002-thumbnail.jpg)](images/642002.jpg)|[![thumbnail](images/sp1-tobira-thumbnail.jpg)](images/sp1-tobira.jpg)
+[![hyoshi](images/642002-thumbnail.jpg)](https://amzn.to/37MhxmO)|[![thumbnail](images/sp1-tobira-thumbnail.jpg)](images/sp1-tobira.jpg)
 
 ## 第5章 テーブルデータをpadnasで処理しPlotlyで可視化する
 
