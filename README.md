@@ -1,12 +1,21 @@
-# Software Design 2020年2月号
+# 「ワンランク上を目指す人のためのPython実践活用ガイド」「Software Design 2020年2月号」サンプルコード
+
+- [ワンランク上を目指す人のためのPython実践活用ガイド](https://amzn.to/3Lwt1j1)
+- [Software Design 2020年2月号](https://amzn.to/37MhxmO)
+
+## ワンランク上を目指す人のためのPython実践活用ガイド
+
+[![［表紙］ワンランク上を目指す人のためのPython実践活用ガイド――自動化スクリプト、テキスト処理、統計学の初歩をマスター](./images/Gh_PythonGuide_cover-H1_ol_small.jpg)](https://amzn.to/3Lwt1j1)
+## Software Design 2020年2月号
 
 表紙|章扉
 -----|--------
 [![hyoshi](images/642002-thumbnail.jpg)](https://amzn.to/37MhxmO)|[![thumbnail](images/sp1-tobira-thumbnail.jpg)](images/sp1-tobira.jpg)
 
-## 第5章 テーブルデータをpadnasで処理しPlotlyで可視化する
+### サンプルコード
 
-第5章のサンプルコードです。binderやColabのリンクからコードをブラウザ上から実行できます。
+「ワンランク上を目指す人のためのPython実践活用ガイド 第6章」および「Software Design 2020年2月号 第5章」のサンプルコードです。
+binderやColabのリンクからコードをブラウザ上から実行できます。
 
 項目|リンク
 -----|--------
